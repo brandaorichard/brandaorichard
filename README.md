@@ -1,5 +1,5 @@
 <h1 align="left">Olá 👋, me chamo Ricardo</h1>
-<h3 align="left">Sou um Desenvolvedor FullStack</h3>
+<h3 align="left">Sou Desenvolvedor FullStack</h3>
 
 - 🌱 Atualmente estou aprendendo **Python**
 
