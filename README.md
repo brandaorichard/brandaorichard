@@ -1,7 +1,9 @@
 # 💫 About Me:
-Olá, sou o Ricardo Brandão :)
-
-<p>Desenvolvedor Full Stack formado pela Trybe, com sólida experiência em desenvolvimento front-end e back-end. Apaixonado por criar aplicações eficientes e centradas no usuário, sempre em busca de expandir meus conhecimentos em tecnologias web modernas.</p>
+<h2>Olá, sou o Ricardo Brandão :)</h2>
+  <p>
+    Desenvolvedor Full Stack formado pela <strong>Trybe</strong>, com experiência em front-end e back-end. Sou apaixonado por criar soluções eficientes e centradas no usuário, e estou sempre em busca de aprender novas ferramentas e melhorar minhas práticas para entregar software de qualidade. Ao longo da minha trajetória, desenvolvi habilidades técnicas e interpessoais que me permitem atuar de forma eficiente em todas as etapas do desenvolvimento. Tenho grande interesse em resolver problemas complexos e trabalhar de forma colaborativa para entregar soluções inovadoras.
+    Estou em constante evolução e acredito que o aprendizado contínuo é fundamental para o crescimento de um desenvolvedor.
+  </p>
 
 <h3>Habilidades Técnicas:</h3>
   <ul>
@@ -30,7 +32,11 @@ Olá, sou o Ricardo Brandão :)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brandaorichard&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
----
+
+<blockquote class="text-center text-gray-500 mt-8">
+    <p><em>"O futuro pertence àqueles que acreditam na beleza de seus sonhos."</em></p>
+    <p>- Eleanor Roosevelt</p>
+  </blockquote>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
