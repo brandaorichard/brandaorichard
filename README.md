@@ -1,6 +1,23 @@
 # 💫 About Me:
-Olá, sou o Ricardo Brandão :)<br><br>Tenho me aventurado no mundo da tecnologia e atualmente sou formado em desenvolvimento web na escola de programação Trybe. Nessa jornada, descobri a imensa importância do desenvolvimento web para resolver vários desafios ao longo dessa caminhada, o que me motiva constantemente a expandir meu conhecimento nessa área..<br><br>Para garantir uma aprendizagem eficaz, dediquei um ano a um bootcamp na Trybe, focando tanto em front-end quanto em back-end. Hoje sinto-me cada vez mais confiante em minha escolha de carreira.<br><br>Durante esse período já adiquiri conhecimentos em:<br><br>Front-end: HTML | CSS | JavaScript | TypeScript | React | Redux | RTL | Context API | Hooks | Bootstrap | Tailwind<br><br>Back-end: Java | Spring | Hibernate | Docker | SQL | MySQL | MongoDB | PostgreSQL | Node.js | MVC | ORM | Express | JWT | Sequelize | OOP | SOLID<br><br>Data Analysis: Python
+Olá, sou o Ricardo Brandão :)
 
+Desenvolvedor Full Stack formado pela Trybe, com sólida experiência em desenvolvimento front-end e back-end. Apaixonado por criar aplicações eficientes e centradas no usuário, sempre em busca de expandir meus conhecimentos em tecnologias web modernas.
+
+Habilidades técnicas:
+
+• Java
+• Conhecimento em Spring Stack
+• API RESTful
+• Conhecimento em Postman
+• Conhecimento em Docker
+• MySQL, Postgree, MongoDB
+• Conhecimento em Maven e Gradle
+• Conceitos de Orientação à Objetos
+• Versionamento de código usando GIT
+• Unity tests, mockito, Test Container
+• React
+• Tailwind
+• Conhecimento em Analise de dados
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-brandao-dev/)
