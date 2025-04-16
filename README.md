@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2>Olá, sou o Ricardo Brandão :)</h2>
+<h2>Olá, sou Ricardo Brandão :)</h2>
   <p>
     Desenvolvedor Full Stack formado pela <strong>Trybe</strong>, com experiência em front-end e back-end. Sou apaixonado por criar soluções eficientes e centradas no usuário, e estou sempre em busca de aprender novas ferramentas e melhorar minhas práticas para entregar software de qualidade. Ao longo da minha trajetória, desenvolvi habilidades técnicas e interpessoais que me permitem atuar de forma eficiente em todas as etapas do desenvolvimento. Tenho grande interesse em resolver problemas complexos e trabalhar de forma colaborativa para entregar soluções inovadoras.
     Estou em constante evolução e acredito que o aprendizado contínuo é fundamental para o crescimento de um desenvolvedor.
