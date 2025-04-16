@@ -1,23 +1,24 @@
 # 💫 About Me:
 Olá, sou o Ricardo Brandão :)
 
-Desenvolvedor Full Stack formado pela Trybe, com sólida experiência em desenvolvimento front-end e back-end. Apaixonado por criar aplicações eficientes e centradas no usuário, sempre em busca de expandir meus conhecimentos em tecnologias web modernas.
+<p>Desenvolvedor Full Stack formado pela Trybe, com sólida experiência em desenvolvimento front-end e back-end. Apaixonado por criar aplicações eficientes e centradas no usuário, sempre em busca de expandir meus conhecimentos em tecnologias web modernas.</p>
 
-Habilidades técnicas:
-
-• Java
-• Conhecimento em Spring Stack
-• API RESTful
-• Conhecimento em Postman
-• Conhecimento em Docker
-• MySQL, Postgree, MongoDB
-• Conhecimento em Maven e Gradle
-• Conceitos de Orientação à Objetos
-• Versionamento de código usando GIT
-• Unity tests, mockito, Test Container
-• React
-• Tailwind
-• Conhecimento em Analise de dados
+<h3>Habilidades Técnicas:</h3>
+  <ul>
+    <li>Java</li>
+    <li>Conhecimento em Spring Stack</li>
+    <li>API RESTful</li>
+    <li>Conhecimento em Postman</li>
+    <li>Conhecimento em Docker</li>
+    <li>MySQL, PostgreSQL, MongoDB</li>
+    <li>Conhecimento em Maven e Gradle</li>
+    <li>Conceitos de Orientação à Objetos</li>
+    <li>Versionamento de código usando GIT</li>
+    <li>Unity tests, Mockito, Test Container</li>
+    <li>React</li>
+    <li>Tailwind</li>
+    <li>Conhecimento em Análise de Dados</li>
+  </ul>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-brandao-dev/)
