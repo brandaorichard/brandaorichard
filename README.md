@@ -18,7 +18,8 @@
     <li>Versionamento de código usando GIT</li>
     <li>Unity tests, Mockito, Test Container</li>
     <li>React</li>
-    <li>Tailwind</li>
+    <li>NextJS</li>
+    <li>TailwindCSS</li>
     <li>Conhecimento em Análise de Dados</li>
   </ul>
 
