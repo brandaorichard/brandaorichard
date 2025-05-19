@@ -1,26 +1,25 @@
 # 💫 About Me:
-<h2>Olá, sou Ricardo Brandão :)</h2>
+<h2Hi, I’m Ricardo Brandão :)</h2>
   <p>
-    Desenvolvedor Full Stack formado pela <strong>Trybe</strong>, com experiência em front-end e back-end. Sou apaixonado por criar soluções eficientes e centradas no usuário, e estou sempre em busca de aprender novas ferramentas e melhorar minhas práticas para entregar software de qualidade. Ao longo da minha trajetória, desenvolvi habilidades técnicas e interpessoais que me permitem atuar de forma eficiente em todas as etapas do desenvolvimento. Tenho grande interesse em resolver problemas complexos e trabalhar de forma colaborativa para entregar soluções inovadoras.
-    Estou em constante evolução e acredito que o aprendizado contínuo é fundamental para o crescimento de um desenvolvedor.
+    Full Stack Developer graduated from Trybe, with experience in both front-end and back-end development. I'm passionate about creating efficient, user-centered solutions, and I'm always eager to learn new tools and improve my practices to deliver high-quality software. Throughout my journey, I've developed strong technical and interpersonal skills that allow me to contribute effectively to every stage of the development process. I have a strong interest in solving complex problems and collaborating to build innovative solutions. I'm constantly evolving and believe that continuous learning is essential for a developer's growth.
   </p>
 
-<h3>Habilidades Técnicas:</h3>
+<h3>Technical Skills:</h3>
   <ul>
     <li>Java</li>
-    <li>Conhecimento em Spring Stack</li>
-    <li>API RESTful</li>
-    <li>Conhecimento em Postman</li>
-    <li>Conhecimento em Docker</li>
+    <li>Knowledge of Spring Stack</li>
+    <li>RESTful APIs</li>
+    <li>Experience with Postman</li>
+    <li>Knowledge of Docker</li>
     <li>MySQL, PostgreSQL, MongoDB</li>
-    <li>Conhecimento em Maven e Gradle</li>
-    <li>Conceitos de Orientação à Objetos</li>
-    <li>Versionamento de código usando GIT</li>
-    <li>Unity tests, Mockito, Test Container</li>
+    <li>Knowledge with Maven and Gradle</li>
+    <li>Object-Oriented Programming (OOP) concepts</li>
+    <li>Version control using Git</li>
+    <li>Unit testing, Mockito, Test Containers</li>
     <li>React</li>
     <li>NextJS</li>
     <li>TailwindCSS</li>
-    <li>Conhecimento em Análise de Dados</li>
+    <li>Knowledge of data analysis</li>
   </ul>
 
 ## 🌐 Socials:
@@ -35,7 +34,7 @@
 
 
 <blockquote class="text-center text-gray-500 mt-8">
-    <p><em>"O futuro pertence àqueles que acreditam na beleza de seus sonhos."</em></p>
+    <p><em>"The future belongs to those who believe in the beauty of their dreams."</em></p>
     <p>- Eleanor Roosevelt</p>
   </blockquote>
 
