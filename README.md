@@ -29,8 +29,6 @@
 
 <br> 
 </br>
-<br> 
-</br>
 
 <blockquote class="text-center text-gray-500 mt-8">
     <p><em>"The future belongs to those who believe in the beauty of their dreams."</em></p>
