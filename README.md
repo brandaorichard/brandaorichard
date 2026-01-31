@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h2>Hi, I’m Ricardo Brandão</h2>
   <p>
-    Full Stack Developer graduated from Trybe, with experience in both front-end and back-end development. I'm passionate about creating efficient, user-centered solutions, and I'm always eager to learn new tools and improve my practices to deliver high-quality software. Throughout my journey, I've developed strong technical and interpersonal skills that allow me to contribute effectively to every stage of the development process. I have a strong interest in solving complex problems and collaborating to build innovative solutions. I'm constantly evolving and believe that continuous learning is essential for a developer's growth.
+    Full Stack Developer, with experience in both front-end and back-end development. I'm passionate about creating efficient, user-centered solutions, and I'm always eager to learn new tools and improve my practices to deliver high-quality software. Throughout my journey, I've developed strong technical and interpersonal skills that allow me to contribute effectively to every stage of the development process. I have a strong interest in solving complex problems and collaborating to build innovative solutions. I'm constantly evolving and believe that continuous learning is essential for a developer's growth.
   </p>
 
 <h3>Technical Skills:</h3>
