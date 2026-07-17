@@ -1,22 +1,11 @@
-<p align="center">
-  <strong>Software Developer</strong><br>
-  Java • Spring Boot • Next.js • TypeScript
-</p>
-
-<p align="center">
-  Building scalable SaaS platforms, modern e-commerce solutions and business automation systems.
-</p>
-
-<br>
-
 <h2>🚀 About Me</h2>
 
 <ul>
-  <li>💻 Full Stack Developer.</li>
-  <li>☕ Building scalable applications with Java & Spring Boot.</li>
-  <li>⚡ Developing modern interfaces using Next.js, React and TypeScript.</li>
-  <li>🏗 Passionate about software architecture, clean code and scalable systems.</li>
-  <li>📈 Creating digital products that solve real business problems.</li>
+  <li>💻 Software Developer</li>
+  <li>☕ Building scalable applications with Java & Spring Boot</li>
+  <li>⚡ Developing modern interfaces using Next.js, React and TypeScript</li>
+  <li>🏗 Passionate about software architecture, clean code and scalable systems</li>
+  <li>📈 Creating digital products that solve real business problems</li>
 </ul>
 
 <br>
