@@ -1,7 +1,5 @@
-<h1 align="center">Ricardo Brandão</h1>
-
 <p align="center">
-  <strong>Backend-Focused Full Stack Developer</strong><br>
+  <strong>Software Developer</strong><br>
   Java • Spring Boot • Next.js • TypeScript
 </p>
 
