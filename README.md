@@ -116,26 +116,3 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&
 
 <br>
 
-<h2>📫 Connect with Me</h2>
-
-<p>
-
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="mailto:SEUEMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-</p>
-
-<br>
-
-<hr>
-
-<p align="center">
-<i>
-Software should solve business problems, not just deliver features.
-</i>
-</p>
