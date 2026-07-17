@@ -12,7 +12,7 @@
 <h2>🚀 About Me</h2>
 
 <ul>
-  <li>💻 Backend-focused Full Stack Developer.</li>
+  <li>💻 Full Stack Developer.</li>
   <li>☕ Building scalable applications with Java & Spring Boot.</li>
   <li>⚡ Developing modern interfaces using Next.js, React and TypeScript.</li>
   <li>🏗 Passionate about software architecture, clean code and scalable systems.</li>
