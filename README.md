@@ -1,4 +1,4 @@
-Backend-focused Full Stack Developer | Java • Spring Boot • Next.js • TypeScript
+Software Developer | Java • Spring Boot • Next.js • TypeScript
 
 Building scalable SaaS products, e-commerce platforms and business automation solutions.
 
